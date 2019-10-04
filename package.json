@@ -1,0 +1,17 @@
+{
+    "name": "com.hwaet.tilemap-character-controller",
+    "displayName": "Tilemap Character Controller",
+	"author": {
+		"name": "Hwaet",
+		"email": "dev@hwaetgames.com",
+		"url": "http://www.hwaetgames.com"
+		},
+    "version": "0.0.1",
+    "unity": "2019.2",
+    "description": "A simple character controller for top-down tilemaps",
+    "keywords": [
+        "character",
+		"controller"
+    ],
+    "category": "Unity"
+}
