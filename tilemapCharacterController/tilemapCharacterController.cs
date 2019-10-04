@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
 
-public class CharacterControllerTilemap_topdown : MonoBehaviour
+public class TilemapCharacterController : MonoBehaviour
 {
 	[HideInInspector]
 	public Vector3 currentVelocity;
